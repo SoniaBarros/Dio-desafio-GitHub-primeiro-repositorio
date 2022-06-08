@@ -1,0 +1,23 @@
+* o Git é um software de versionamento de códigos.
+* GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. 
+* Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em 
+projetos privados e/ou Open Source de qualquer lugar do mundo. Fonte Wikipédia
+* O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Tópicos Fundamentais para entender o Git 
+
+* sha1= Em criptografia, SHA-1 é uma função de dispersão criptográfica (ou função hash criptográfica) 
+projetada pela Agência de Segurança Nacional dos Estados Unidos e é um Padrão Federal de Processamento 
+de Informação dos Estados Unidos publicado pelo Instituto Nacional de Padrões e Tecnologia (NIST).
+
+* Objetos Fundamentais;
+* Sistema Distribuido;
+* Segurança.
+
+Objetos Internos do Git
+
+Blobs = bolhas, objetos/contem metadados
+Trees = Arvores que armazenam as Blobs;
+Commits = objeto que junta tudo e da sentido as coisas.
+
+ 
